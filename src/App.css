@@ -3,6 +3,11 @@ body {
   background-color: black;
 }
 
+#evolution {
+  position: relative;
+  top: 5px;
+}
+
 /* Header */
 .site-header {
   position: fixed;
@@ -99,6 +104,14 @@ body {
 .logo {
   width: 200px;
   cursor: pointer;
+}
+
+.project-images {
+  border: 2px solid #333;
+  border-radius: 2px;
+  position: relative;
+  
+  
 }
 
 .home-button {
